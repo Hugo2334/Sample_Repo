@@ -1,3 +1,3 @@
-# This ia change to Sample_Repo
+# This is change to Sample_Repo
 
-# To experiment and see if git works
+To experiment and see if git works
